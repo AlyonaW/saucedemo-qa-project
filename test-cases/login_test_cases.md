@@ -16,7 +16,6 @@ User is on login page
 - Password: secret_sauce
 
 **Steps:**
-
 1. Enter valid username
 2. Enter valid password
 3. Click “Login” button
@@ -36,7 +35,6 @@ User is on login page
 - Password: wrong_password
 
 **Steps:**
-
 1. Enter valid username
 2. Enter invalid password
 3. Click “Login” button
@@ -56,7 +54,6 @@ User is on login page
 - Password: empty
 
 **Steps:**
-
 1. Leave username field empty
 2. Leave password field empty
 3. Click “Login” button
