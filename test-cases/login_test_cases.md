@@ -41,7 +41,7 @@ User is on login page
 
 **Expected result:**
 An authentication error message is displayed.
-User is not logged in.
+User is not logged in
 
 ---
 
