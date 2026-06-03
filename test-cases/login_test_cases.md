@@ -40,7 +40,8 @@ User is on login page
 3. Click “Login” button
 
 **Expected result:**
-Error message is displayed: “Username and password do not match”
+An authentication error message is displayed.
+User is not logged in.
 
 ---
 
