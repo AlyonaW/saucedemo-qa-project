@@ -1,4 +1,4 @@
-## Bug #1: Error message overlaps page content
+## Login Bug #1: Error message overlaps page content
 **ID:** BUG-001
 
 **Module:** Login
@@ -17,7 +17,7 @@ User is on login page.
 4. Click Login.
 
 **Actual result:**
-Error message overlaps surrounding elements.
+The error message overlaps other UI elements, affecting readability of the login form.
 
 **Expected result:**
 Error message is displayed correctly without affecting page layout.
